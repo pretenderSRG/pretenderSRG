@@ -1,16 +1,30 @@
-## Hi there 👋
+Hi there, I'm Serhii! 👋
 
-<!--
-**pretenderSRG/pretenderSRG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
 
-Here are some ideas to get you started:
+I'm a Java developer in training with a strong background in 3D visualization. Currently, I'm focused on backend development, mastering Java, Spring, and database management. My goal is to transition into web development and build scalable, efficient applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Technologies & Tools
+
+Languages: Java, Python, SQL
+
+Frameworks: Spring, Hibernate
+
+Databases: MySQL, PostgreSQL
+
+Tools: Git, Docker, IntelliJ IDEA
+
+3D Visualization: 3ds Max, Corona Renderer
+
+📌 My Projects
+
+🔹 Phone Book CRUD App – A simple phone book with HashMap storage and file serialization (WIP)🔹 Workout Generator – A web app for creating personalized gym training plans (Coming soon)🔹 More projects coming soon! Stay tuned! 🚧
+
+📫 Let's Connect
+
+GitHub: PretenderSRG
+
+LinkedIn: https://www.linkedin.com/in/serg-tsipukh-011659280/
+
+🚀 Always learning, always improving!
+
