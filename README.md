@@ -24,7 +24,7 @@ Tools: Git, Docker, IntelliJ IDEA
 
 GitHub: PretenderSRG
 
-LinkedIn: https://www.linkedin.com/in/serg-tsipukh-011659280/
+LinkedIn: [My LinkedIn](https://www.linkedin.com/in/serg-tsipukh-011659280/)
 
 🚀 Always learning, always improving!
 
