@@ -1,10 +1,10 @@
-### Hi there, I'm Serhii! 👋
+### Hi there, I'm Serhii!
 
-_💻 About Me_
+_About Me_
 
 I'm a Java developer in training with a strong background in 3D visualization. Currently, I'm focused on backend development, mastering Java, Spring, and database management. My goal is to transition into web development and build scalable, efficient applications.
 
-_🚀 Technologies & Tools_
+_ Technologies & Tools_
 
  - Languages: Java, Python, SQL
 
@@ -16,7 +16,7 @@ _🚀 Technologies & Tools_
 
  - 3D Visualization: 3ds Max, Corona Renderer, Photoshop
 
-_📌 My Projects_
+_ My Projects_
 
 🔹 [Contact app](https://github.com/pretenderSRG/contact-app). Spring Boot REST API for contact management with authentication.
 
@@ -24,13 +24,13 @@ _📌 My Projects_
 
 🔹 [Workout Generator](https://github.com/pretenderSRG/workout_generator) – A web app for creating personalized gym training plans.
 
-🔹 More projects coming soon! Stay tuned! 🚧
+🔹 More projects coming soon! Stay tuned! 
 
-📫 _Let's Connect_
+ _Let's Connect_
 
 GitHub: PretenderSRG
 
 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/serg-tsipukh-011659280/)
 
-🚀 Always learning, always improving!
+Always learning, always improving!
 
